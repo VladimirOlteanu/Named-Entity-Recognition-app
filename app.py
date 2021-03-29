@@ -1,5 +1,6 @@
 %%writefile app.py
 
+import gunicorn
 from flask import Flask,url_for,render_template,request
 from flaskext.markdown import Markdown
 
