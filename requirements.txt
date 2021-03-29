@@ -1,5 +1,4 @@
 spaCy==2.2.4
-Python==3.7.10
 Flask==1.1.2
 Flask-Markdown==0.3
 gevent==21.1.2
