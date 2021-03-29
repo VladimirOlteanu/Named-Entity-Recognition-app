@@ -75,7 +75,6 @@ fastai==1.0.61
 fastdtw==0.3.4
 fastprogress==1.0.0
 fastrlock==0.5
-fbprophet==0.7.1
 feather-format==0.4.1
 filelock==3.0.12
 firebase-admin==4.4.0
@@ -84,7 +83,7 @@ Flask==1.1.2
 Flask-Markdown==0.3
 flask-ngrok==0.0.25
 flatbuffers==1.12
-folium==0.8.3
+folium==0.2.1
 future==0.16.0
 gast==0.3.3
 gdown==3.6.4
@@ -118,7 +117,7 @@ imageio==2.4.1
 imagesize==1.2.0
 imbalanced-learn==0.4.3
 imblearn==0.0
-imgaug==0.2.9
+imgaug==0.2.5
 importlib-metadata==3.7.2
 importlib-resources==5.1.2
 imutils==0.5.4
@@ -310,7 +309,7 @@ tabulate==0.8.9
 tblib==1.7.0
 tensorboard==2.4.1
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.4.1
+tensorflow==2.4.0
 tensorflow-datasets==4.0.1
 tensorflow-estimator==2.4.0
 tensorflow-gcs-config==2.4.0
