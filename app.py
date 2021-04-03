@@ -6,7 +6,7 @@ from flaskext.markdown import Markdown
 # NLP Pkgs
 import spacy
 from spacy import displacy
-nlp = spacy.load('en')
+nlp = spacy.load('en_core_web_sm')
 import json
 HTML_WRAPPER = """<div style="overflow-x: auto; border: 1px solid #e6e9ef; border-radius: 0.25rem; padding: 1rem">{}</div>"""
 
