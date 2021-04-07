@@ -1,5 +1,5 @@
-spacy==2.0.0
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.0.0/en_core_web_sm-2.0.0.tar.gz#en_core_web_sm
+spacy==3.0.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.0.0/en_core_web_sm-3.0.0.tar.gz
 Flask==1.1.2
 Flask-Markdown==0.3
 gevent==21.1.2
